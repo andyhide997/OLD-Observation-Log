@@ -943,7 +943,7 @@ FROM            Observations</CommandText>
                                       <Actions>
                                         <Action>
                                           <Drillthrough>
-                                            <ReportName>ObsLogByDate2</ReportName>
+                                            <ReportName>ObsLogByDate</ReportName>
                                             <Parameters>
                                               <Parameter Name="Date">
                                                 <Value>=Fields!ObservationDate.Value</Value>

@@ -12,7 +12,7 @@
     <TargetDatasetFolder>Datasets</TargetDatasetFolder>
     <TargetDatasourceFolder>Data Sources</TargetDatasourceFolder>
     <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
-    <TargetServerURL>http://handysql2018/reportserver</TargetServerURL>
+    <TargetServerURL>http://handysql2019/reportserver</TargetServerURL>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'DebugLocal' ">
     <FullPath>DebugLocal</FullPath>
@@ -59,6 +59,7 @@
     <Report Include="ObsLogByBus.rdl" />
     <Report Include="ObsLogByDate.rdl" />
     <Report Include="ObsLogTopLevelSummary.rdl" />
+    <Report Include="TravelHistory.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>

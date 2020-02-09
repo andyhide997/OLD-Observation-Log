@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Observation Log", "Observation Log\Observation Log.rptproj", "{F533E966-5D49-48A9-B6B3-E22765DF0729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F533E966-5D49-48A9-B6B3-E22765DF0729}.Debug|Default.ActiveCfg = Debug
+		{F533E966-5D49-48A9-B6B3-E22765DF0729}.Debug|Default.Build.0 = Debug
+		{F533E966-5D49-48A9-B6B3-E22765DF0729}.Debug|Default.Deploy.0 = Debug
+		{F533E966-5D49-48A9-B6B3-E22765DF0729}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{F533E966-5D49-48A9-B6B3-E22765DF0729}.DebugLocal|Default.Build.0 = DebugLocal
+		{F533E966-5D49-48A9-B6B3-E22765DF0729}.Release|Default.ActiveCfg = Release
+		{F533E966-5D49-48A9-B6B3-E22765DF0729}.Release|Default.Build.0 = Release
+		{F533E966-5D49-48A9-B6B3-E22765DF0729}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E4E617B-980B-4B00-8922-FEFE94A6D516}
+	EndGlobalSection
+EndGlobal

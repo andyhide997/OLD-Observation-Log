@@ -58,6 +58,7 @@
     <Report Include="FleetRecord.rdl" />
     <Report Include="ObsLogByBus.rdl" />
     <Report Include="ObsLogByDate.rdl" />
+    <Report Include="ObsLogByDateNEW.rdl" />
     <Report Include="ObsLogTopLevelSummary.rdl" />
     <Report Include="TravelHistory.rdl" />
   </ItemGroup>
